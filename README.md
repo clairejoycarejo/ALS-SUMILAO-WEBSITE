@@ -1,2 +1,2 @@
-# ALS-SUMILAO-WEBSITE
-sample website
+# ALSWebsite
+A Website for ALS
